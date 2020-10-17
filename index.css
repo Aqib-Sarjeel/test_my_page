@@ -1,0 +1,110 @@
+body {
+  background-color: #e5e5e5;
+}
+.text {
+  text-align: center;
+  position: relative;
+  top: -45px;
+  font-size: 14px;
+  left: 96px;
+  font-family: Karla;
+
+  color: #969696;
+}
+.div {
+  width: auto;
+  height: 26px;
+  margin: 3px;
+}
+.te {
+  text-align: center;
+  position: relative;
+  left: -62px;
+  top: -10px;
+  font-weight: 400;
+  /* font-style: roboto; */
+}
+.dbtn {
+  background-color: lawngreen;
+  height: 100%;
+  width: auto;
+  padding: 0px;
+}
+.div1 {
+  width: auto;
+  height: 113px;
+  margin-top: 3px;
+}
+.htag {
+  font-weight: 500;
+  font-size: 20px;
+  /* font-style: roboto; */
+}
+.bx {
+  height: 31px;
+  width: auto;
+
+  /* border: ; */
+  box-shadow: rgba(0, 0, 0, 0.25);
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.cbox {
+  height: 21px;
+  width: 22px;
+}
+.cboxtext {
+  font-size: 20px;
+  font-weight: 400;
+  padding-left: 20px;
+  padding-top: 10px;
+  /* font-style: roboto; */
+}
+.cboxtext2 {
+  font-size: 1.5rem;
+  /* font-style: roboto; */
+}
+.cbox2 {
+  height: 21px;
+  width: 22px;
+  margin-left: 35px;
+}
+.textl {
+  text-align: center;
+  position: relative;
+  left: -23px;
+  top: -10px;
+  font-weight: 400;
+  /* font-style: roboto; */
+}
+.bx2 {
+  height: 50px;
+  width: auto;
+
+  box-shadow: rgba(0, 0, 0, 0.25);
+  background-color: white;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.text2 {
+  text-align: center;
+  /* font-style: roboto; */
+  font-weight: 400;
+  position: absolute;
+  top: 25px;
+  left: 50px;
+}
+.footer {
+  background-color: #0fbc71;
+  position: relative;
+  bottom: 0px;
+  color: white;
+  border-radius: 5px;
+  margin: 10px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 700;
+  height: 72px;
+  width: auto;
+}
